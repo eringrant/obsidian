@@ -46,7 +46,7 @@ attachments:{% endif %}
 libraryID: {{libraryID}}
 ---
 
-`BUTTON[update-litnote]`
+`BUTTON[update-reference]`
 
 {% persist "notes" -%}
 {%- if isFirstImport %}

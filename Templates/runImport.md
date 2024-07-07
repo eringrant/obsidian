@@ -4,5 +4,5 @@ const citekey = tp.frontmatter?.citekey || tp.frontmatter.aliases?.find(alias =>
 // Get the library ID from the properties. Fall back to "My Library" (1), if the library ID is not accessible
 const libraryID = tp.frontmatter.libraryID || 1;
 // Run the import
-app.plugins.getPlugin('obsidian-zotero-desktop-connector').runImport('IMPORT NAME', citekey, libraryID); ;
+app.plugins.getPlugin('obsidian-zotero-desktop-connector').runImport('reference', citekey, libraryID); ;
 %>
