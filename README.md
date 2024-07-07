@@ -27,6 +27,7 @@ to set up a reference template that points to the "Import Format" just created.
   - [Templater](https://github.com/SilentVoid13/Templater)
   - [Meta Bind](https://github.com/mProjectsCode/obsidian-meta-bind-plugin)
   - [Dataview](https://github.com/blacksmithgu/obsidian-dataview)
+  - [Vimrc Support](https://github.com/esm7/obsidian-vimrc-support)
 
 ## Inspiration
 
